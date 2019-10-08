@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(24, 24, 26);
+    margin: auto;
+    height: auto;
+    width: auto;
+}
+
+.cardColor{
+    color:#ffffff;
+}
+
+.card {
+    margin: auto;
+    width: 80%;
+    margin-top:  50px;
+    background-color: rgba(45, 49, 104, 0.575);
+  }
+
+.cardButtons {
+    margin:auto;
+    color:#ffffff;
+}
+
+.toolbarTitle {
+    text-align: center;
+    width: 80%;
+}
+
+.homeButon{
+    width: 10%;
+}
